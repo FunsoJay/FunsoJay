@@ -28,15 +28,15 @@ I'm a **Data Enthusiast** specializing in **Business Intelligence**, with a stro
 
 ### 🚀 Projects That Speak
 
-#### 🏥 Healthcare Intelligence Dashboard (Power BI)
+#### 🏥 [Healthcare Intelligence Dashboard](https://github.com/FunsoJay/Healthcare_analysis_dashboard)
 Visualized patient outcomes, admission patterns, and treatment costs across U.S. hospitals — enabling healthcare leaders to act on data with clarity and speed.  
 **Tech:** Power BI, DAX, Excel. 
 
-#### 🧠 Customer Segmentation (Python)
+#### 🧠 [Customer Segmentation (Python)](https://github.com/FunsoJay/bank_customer_segmentation)
 Clustered over a million retail and corporate customers using K-Means to personalize banking services, reduce churn, and drive targeted marketing.  
 **Tech:** Python (pandas, scikit-learn), SQL  
 
-#### 📈 Sales Performance Tracker
+#### 📈 [Coffee Sales Performance](https://github.com/FunsoJay/Coffee_sales_project)
 Built an interactive Power BI report analyzing product sales, trends, and performance KPIs to guide executive decisions in retail strategy.  
 **Tech:** Power BI, SQL, Excel
 
