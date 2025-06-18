@@ -38,9 +38,9 @@ Clustered over a million retail and corporate customers using K-Means to persona
 
 #### 📈 [Coffee Sales Performance](https://github.com/FunsoJay/Coffee_sales_project)
 Built an interactive Power BI report analyzing product sales, trends, and performance KPIs to guide executive decisions in retail strategy.  
-**Tech:** Power BI, SQL, Excel
+**Tech:** Power BI, SQL, Excel.
 
----
+You can check out my repositories for more projects.
 
 ### 🌱 Currently Exploring
 
