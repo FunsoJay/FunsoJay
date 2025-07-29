@@ -32,13 +32,15 @@ I'm a **Data Enthusiast** specializing in **Business Intelligence**, with a stro
 Visualized patient outcomes, admission patterns, and treatment costs across U.S. hospitals — enabling healthcare leaders to act on data with clarity and speed.  
 **Tech:** Power BI, DAX, Excel. 
 
+#### 📈 [Mobile Phone Sales Project](https://github.com/FunsoJay/Phone-Sales-Analysis-Project)
+Visualized mobile phone sales trends, customer preferences, and revenue drivers across countries and channels, empowering businesses to align products and strategies with real consumer demand.
+**Tech:** Power BI( Power Query, DAX measures, Vizualizations)
+
 #### 🧠 [Customer Segmentation (Python)](https://github.com/FunsoJay/bank_customer_segmentation)
 Clustered over a million retail and corporate customers using K-Means to personalize banking services, reduce churn, and drive targeted marketing.  
 **Tech:** Python (pandas, scikit-learn), SQL  
 
-#### 📈 [Coffee Sales Performance](https://github.com/FunsoJay/Coffee_sales_project)
-Built an interactive Power BI report analyzing product sales, trends, and performance KPIs to guide executive decisions in retail strategy.  
-**Tech:** Power BI, SQL, Excel.
+
 
 You can check out my repositories for more projects.
 
