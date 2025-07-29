@@ -32,18 +32,19 @@ I'm a **Data Enthusiast** specializing in **Business Intelligence**, with a stro
 This project analyzes customer data from a European bank to uncover churn patterns, understand customer demographics, and identify key behavioral segments, using SQL Server for analysis and Power BI for visualization.
 
 **Tech:** Power BI, DAX, Power Query, SQL.
+
 #### 🏥 [Healthcare Intelligence Project](https://github.com/FunsoJay/Healthcare_analysis_dashboard)
 Visualized patient outcomes, admission patterns, and treatment costs across U.S. hospitals — enabling healthcare leaders to act on data with clarity and speed.  
 **Tech:** Power BI, DAX, Excel. 
 
 #### 📈 [Mobile Phone Sales Project](https://github.com/FunsoJay/Phone-Sales-Analysis-Project)
 Visualized mobile phone sales trends, customer preferences, and revenue drivers across countries and channels, empowering businesses to align products and strategies with real consumer demand.
+
 **Tech:** Power BI( Power Query, DAX measures, Vizualizations)
 
 #### 🧠 [Customer Segmentation Project (Python)](https://github.com/FunsoJay/bank_customer_segmentation)
 Clustered over a million retail and corporate customers using K-Means to personalize banking services, reduce churn, and drive targeted marketing.  
 **Tech:** Python (pandas, scikit-learn), SQL.  
-
 
 
 
