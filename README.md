@@ -7,11 +7,11 @@
 
 ### 🧠 About Me
 
-I'm a **Data Enthusiast** specializing in **Business Intelligence**, with a strong focus on transforming data into meaningful, visual stories that drive decision-making. With over **a year of hands-on experience**, I’ve worked across banking, logistics, and energy — turning messy datasets into dashboards, insights, and value.
+I'm a **Data Professional** specializing in **Business Intelligence**, with a strong focus on transforming data into meaningful, visual stories that drive decision-making. With over **two years of hands-on experience**, I’ve worked across banking, logistics, and the telecoms space, turning business data into dashboards and reports which help to drive actionable insights and positive business impact and outcome.
 
-- 🔍 I thrive on asking the right questions and uncovering patterns behind the numbers.  
-- 🎯 I believe great data work is equal parts curiosity, clarity, and communication.  
-- 🌍 I’m driven by the belief that **when used right, data doesn’t just inform — it transforms how we understand and act.**
+- 🔍 I focus on asking the right questions and uncovering patterns behind the numbers.
+- 🎯 I believe success in this field comes from a balance of curiosity, clear thinking, and effective communication. 
+- 🌍 When used effectively, data doesn’t just inform decisions — it transforms the way we understand and act.
 
 ---
 
@@ -19,10 +19,10 @@ I'm a **Data Enthusiast** specializing in **Business Intelligence**, with a stro
 
 | Area            | Tools/Technologies |
 |-----------------|--------------------|
-| **BI & Reporting** | Power BI, Microsoft Excel, Power Query |
-| **Languages**     | SQL, DAX, Python (pandas, matplotlib) |
-| **Databases**     | PostgreSQL, SQL Server |
-| **Soft Skills**   | Data storytelling, stakeholder collaboration, problem-solving, critical thinking |
+| **BI & Reporting** | Tableau, Power BI, Microsoft Excel, Power Query |
+| **Languages**      | DAX, Python (pandas, matplotlib), Machine Learning |
+| **Databases**      | PostgreSQL, SQL Server, MySQL |
+| **Soft Skills**    | Data storytelling, stakeholder collaboration, problem-solving, critical thinking, Analytical prowess |
 
 ---
 
@@ -47,7 +47,6 @@ Clustered over a million retail and corporate customers using K-Means to persona
 **Tech:** Python (pandas, scikit-learn), SQL.  
 
 
-
 You can check out my repositories for more projects.
 
 ### 🌱 Currently Exploring
@@ -64,7 +63,6 @@ You can check out my repositories for more projects.
 - 📧 babafunsojegede@gmail.com
 - 🧳 [My Portfolio](https://funsojay.github.io/babafunsojegede.github.io/)
 
-> 💡 *“In God we trust. All others must bring data.” – W. Edwards Deming*
 
 ---
 
