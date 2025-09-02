@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I’m Babafunso</h1>
 <p align="center">
-  🚀 Data Enthusiast | Big Data | 📊 Business Intelligence Analyst | 🌍  Driven by the belief that great insights lead to great decisions — and better outcomes.
+  🚀 Data Professional | Big Data | 📊 Business Intelligence Analyst & Developer| 🌍  Using insights to drive smarter decisions — and better outcomes.
 </p>
 
 ---
